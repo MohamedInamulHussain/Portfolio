@@ -1,0 +1,78 @@
+[
+    {
+      "name": "Java",
+      "icon": "/icons/java.png"
+    },
+    {
+        "name": "Python",
+        "icon": "/icons/python.png"
+      },
+      
+    {
+        "name": "SprinBoot",
+        "icon": "/icons/spring.png"
+      },
+      {
+        "name": "SQL",
+        "icon": "/icons/sql.png"
+      },
+      {
+        "name": "MongoDb",
+        "icon": "/icons/mongodb.png"
+      },
+    {
+      "name": "React.js",
+      "icon": "/icons/react.png"
+    },
+    {
+      "name": "HTML",
+      "icon": "/icons/html.png"
+    },
+    {
+        "name": "CSS",
+        "icon": "/icons/css.png"
+      },
+      {
+        "name": "JavaScript",
+        "icon": "/icons/js.png"
+      },
+      {
+        "name": "Node.js",
+        "icon": "/icons/nodejs.png"
+      },
+      {
+        "name": "Tailwind",
+        "icon": "/icons/tailwind.png"
+      },
+      {
+        "name": "Bootstrap",
+        "icon": "/icons/bootstrap.png"
+      },
+      
+      {
+        "name": "GitHub",
+        "icon": "/icons/github.png"
+      },
+      {
+        "name": "Figma",
+        "icon": "/icons/figma.png"
+      },
+      {
+        "name": "AdobeXD",
+        "icon": "/icons/xd.png"
+      },
+      
+      {
+        "name": "AfterEffects",
+        "icon": "/icons/ae.png"
+      },
+      {
+        "name": "PremierPro",
+        "icon": "/icons/pr.png"
+      },
+      {
+        "name": "Photoshop",
+        "icon": "/icons/ps.png"
+      }
+  ]
+  
